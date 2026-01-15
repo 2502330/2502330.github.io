@@ -1,11 +1,6 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<h2>About Me</h2>
+👋 I'm Jovan, a year 1 BAC student.

@@ -1,0 +1,8 @@
+---
+title: "Data Visualization"
+format: html
+---
+
+![](https://i.imgur.com/HqBXJja.png)
+
+This task was to create a **Class Management System (CMS)**. The graph above illustrates the **grade distribution of 25 students in a class**. My rationale was to add clear color coding to represent different grade ranges, making it easier to identify students' performance at a glance. The use of distinct colors for each grade bracket helps in quickly assessing the overall class performance and identifying areas where students may need additional support.

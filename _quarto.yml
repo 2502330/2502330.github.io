@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Jovan's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - fyp.qmd
+      - data_visualization.qmd
+      - reflection.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - pulse
     css: styles.css
     toc: true
 

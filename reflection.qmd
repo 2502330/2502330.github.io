@@ -1,0 +1,20 @@
+---
+title: "Reflection"
+format: html
+---
+
+<h2>What is the GenAI tool you have used? Why did you choose it?</h2>
+![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Google_Gemini_logo_2025.svg)
+
+I used Gemini, a generative AI developed by Google. I chose this specific tool because of its ability to process complex instructions and provide real-time suggestions.
+
+<h2>How did the GenAI tool help you in completing the assessment (with examples)?</h2>
+The tool provided drafts that I could refine, saving me time on initial content creation.
+
+<h2>What do you think are challenging about the tool?</h2>
+While GenAI is excellent at generating text, I had to be careful to review and edit the output to ensure it accurately reflected my thoughts.
+
+<h2>How do you think will GenAI tools assist you for your future study or work?</h2>
+- Summarizing large volumes of research to identify key themes quickly
+- Peer-reviewing my own reports
+- Learning new technical concepts by asking it to explain complex topics in simpler terms.

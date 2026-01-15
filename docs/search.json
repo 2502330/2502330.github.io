@@ -2,8 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "About Me\n\n👋 I’m Jovan, a year 1 BAC student."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "What is the GenAI tool you have used? Why did you choose it?\n\n I used Gemini, a generative AI developed by Google. I chose this specific tool because of its ability to process complex instructions and provide real-time suggestions.\n\nHow did the GenAI tool help you in completing the assessment (with examples)?\n\nThe tool provided drafts that I could refine, saving me time on initial content creation.\n\nWhat do you think are challenging about the tool?\n\nWhile GenAI is excellent at generating text, I had to be careful to review and edit the output to ensure it accurately reflected my thoughts.\n\nHow do you think will GenAI tools assist you for your future study or work?\n\n\nSummarizing large volumes of research to identify key themes quickly\nPeer-reviewing my own reports\nLearning new technical concepts by asking it to explain complex topics in simpler terms."
+  },
+  {
+    "objectID": "data_visualization.html",
+    "href": "data_visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This task was to create a Class Management System (CMS). The graph above illustrates the grade distribution of 25 students in a class. My rationale was to add clear color coding to represent different grade ranges, making it easier to identify students’ performance at a glance. The use of distinct colors for each grade bracket helps in quickly assessing the overall class performance and identifying areas where students may need additional support."
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "Final Year Project",
+    "section": "",
+    "text": "Video\nOur FYP was to create an interactive and immersive wall display for potential students to learn about our school."
   }
 ]
